@@ -1,0 +1,31 @@
+{
+  "header": {
+    "hello": "Hello",
+    "edit_profile": "Edit Profile",
+    "logout": "Logout",
+    "get_started": "Get Started"
+  },
+  "footer": {
+    "copyright": "Copyright",
+    "insight": "Udi Compliance",
+    "all_rights_reserved": " All rights reserved."
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "account": "Account",
+    "teamChat": "Team Chat",
+    "kanban": "KANBAN",
+    "settings": "Settings",
+    "processing": "Processing",
+    "sellerTable": "Seller Table",
+    "chart": "Chart",
+    "udiManagement": "UDI Management",
+    "udiStickerSheet": "UDI Sticker Sheet",
+    "udiImplantCard": "UDI Implant Card",
+    "udiEducation": "UDI Education",
+    "admin": "Admin"
+  },
+  "dashboard": {
+    "dashboard": "Dashboard"
+  }
+}

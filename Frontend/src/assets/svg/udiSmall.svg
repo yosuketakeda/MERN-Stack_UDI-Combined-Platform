@@ -1,0 +1,14 @@
+<svg width="12.000000000000002" height="13.000000000000002" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="14" height="15" id="canvas_background" fill="none"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <path d="m11.6619,10.624l0,2.376l-11.015986,0l0,-1.89l6.911996,-8.334l-6.767996,0l0,-2.376001l10.601986,0l0,1.890001l-6.89399,8.334l7.16399,0z" fill="#1C5DE1" id="svg_1"/>
+  <rect fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="-0.008505" y="-0.044784" width="12.060789" height="13.155234" id="svg_2"/>
+  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="-0.863055" y="13.081004" id="svg_3" font-size="19" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">U</text>
+  <text transform="matrix(1,0,0,1,0,0) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_4" y="13.445203" x="-1.220163" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#2d5de1">U</text>
+ </g>
+</svg>
